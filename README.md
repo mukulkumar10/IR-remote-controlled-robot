@@ -1,5 +1,5 @@
 # IR-remote-controlled-robot
-To develop a moving IR remote controlled robot on Arduino-Uno using 3D online modeling program Tinkercad.
+In this project, I have developed a moving IR remote controlled robot on Arduino-Uno using 3D online modeling program Tinkercad.
 
 # Instructions Followed
 This project is for IR Remote Controlled robot using Arduino Uno, in which IR remote control the movement of the robot by controlling its left and right wheels (DC motor) as
